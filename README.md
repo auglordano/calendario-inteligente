@@ -1,6 +1,10 @@
 # Calendário Inteligente
 
-![Organização da Área de Trabalho antes do script](./images/screenshot.png)
+Inicianlização do script + inicianlização da IDE
+
+![img1](https://github.com/user-attachments/assets/72a40aa9-b873-4326-b83a-387d0b206806)
+
+Fechando a IDE e gerando link do evento
 
 ![Organização da Área de Trabalho depois do script](./images/screenshot.png)
 
