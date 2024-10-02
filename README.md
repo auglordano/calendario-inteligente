@@ -6,7 +6,7 @@ Inicianlização do script + inicianlização da IDE
 
 Fechando a IDE e gerando link do evento
 
-![Organização da Área de Trabalho depois do script](./images/screenshot.png)
+![tes2](https://github.com/user-attachments/assets/371f7983-b9e2-4c66-b2ed-8ec16b1d0320)
 
 ## Sobre o Projeto
 
