@@ -8,6 +8,10 @@ Fechando a IDE e gerando link do evento
 
 ![tes2](https://github.com/user-attachments/assets/371f7983-b9e2-4c66-b2ed-8ec16b1d0320)
 
+Evento programado para o dia seguinte em sua agenda do Google Calendário
+
+![Screenshot_1](https://github.com/user-attachments/assets/880f0d5f-53d7-44d3-be16-8cc6a1b50ef1)
+
 ## Sobre o Projeto
 
 O **Calendário Inteligente** é um script Python criado para automatizar a criação de eventos no seu Google Calendar com base em atividades configuráveis. Este projeto tem como objetivo facilitar a rotina dos usuários, permitindo que eles acompanhem suas atividades diárias de forma eficiente.
